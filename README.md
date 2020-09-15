@@ -2,6 +2,8 @@
 
 In this project you will be building a crypto currency calculator
 
+You will be converting between USD, GBP, EUR and LTC, BTC, ETH
+
 ## What you will be doing
 
 This project assumes you've already had experience with:
