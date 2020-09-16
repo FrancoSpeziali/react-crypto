@@ -104,24 +104,21 @@ Then:
 There's no need to call the API multiple times - in fact some APIs will block you if you call them too many times!
 
 I would recommend calling it once and storing the result.
-1. Design your app (start with something small)
 
-2. Determine what data you need from the API
-(play around with the API)
+#### Start with something small
 
-Download and install - Postman (Mansour)
-`sudo snap install insomnia` - Insomnia
+Don't build something too big if you're not sure
 
-3. Think about how you will structure your application in terms of components
+#### Determine how the API works before you use it
 
-- what hierarchies will there be
-- smart and dumb components
+Play around with the API before you use it. Can it support your expectations?
 
-4. Logic - how is it going to work? What will you keep in state?
+#### Structure your application
 
-- Call your API, get your data (store it in state)
-- Input
-- Output
-- Maths
+- what hierarchies will there be?
+- separate your logic into smart and dumb components
+- What will you keep in state?
 
-5. Styling
+#### CSS Styles
+
+Focus on styles last
