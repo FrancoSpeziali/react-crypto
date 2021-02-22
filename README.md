@@ -63,7 +63,7 @@ https://min-api.cryptocompare.com/data/pricemulti?fsyms=USD,EUR,GBP&tsyms=BTC,ET
 
 ✔ Your calculator can convert between any of the available currencies from the API
 
-## Assignments
+## Tasks
 
 Create a new project folder, using `create-react-app`
 
